@@ -3,27 +3,27 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "Lesson Title"
+title: "How do I write a funding grant?"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson will show you how to..."
+short-purpose: "This lesson contains a repository of articles related to grant and budget writing."
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
-who: "Pulse Crop Researchers focused on variation data."
+who: "Graduate students, researchers and Post-Doctoral Fellows will benefit from learning more about the grant writing process."
 
 # A comma-separated list of maintainers for this lesson.
 maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia orci risus. Quisque condimentum nunc posuere, rutrum nunc eu, cursus enim. Nam sit amet turpis sit amet erat pulvinar consequat eget ac erat. Aliquam erat volutpat. Aenean in bibendum nibh. Proin iaculis dictum augue nec faucibus. Integer et arcu tortor. Donec at tristique eros. Integer consequat aliquet mauris, vitae imperdiet orci iaculis sit amet. Cras sit amet mollis lacus. Sed ac auctor mi, sit amet laoreet tellus. Vivamus vehicula congue velit. Cras vulputate est nec velit pretium condimentum. Vivamus eu leo sed est ullamcorper tincidunt at non dolor. Duis vestibulum pellentesque felis, at aliquam risus condimentum at."
+why: "Writing grants can be a frustrating process and success rates are generally low. However, repeatedly applying for funding is a reality when working within academia, and every success adds to one's future ability to bring in funding. This repository serves as a place where students and researchers can find advice and tools for writing better grant proposals from academics around the world, and in a variety of disciplines."
 
 # A short list of items researchers will learn in this lesson.
 learn:
-- "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-- "Quisque condimentum nunc posuere, rutrum nunc eu, cursus enim."
-- "Duis vestibulum pellentesque felis, at aliquam risus condimentum at."
+- "Using the Message Box Workbook to better communicate your work"
+- "Where to start when writing a budget"
+- "Usask resources for grant writing"
 
 data-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia orci risus. Quisque condimentum nunc posuere, rutrum nunc eu, cursus enim. Nam sit amet turpis sit amet erat pulvinar consequat eget ac erat. Aliquam erat volutpat. Aenean in bibendum nibh. Proin iaculis dictum augue nec faucibus. Integer et arcu tortor. Donec at tristique eros. Integer consequat aliquet mauris, vitae imperdiet orci iaculis sit amet. Cras sit amet mollis lacus. Sed ac auctor mi, sit amet laoreet tellus. Vivamus vehicula congue velit. Cras vulputate est nec velit pretium condimentum. Vivamus eu leo sed est ullamcorper tincidunt at non dolor. Duis vestibulum pellentesque felis, at aliquam risus condimentum at."
 ---
