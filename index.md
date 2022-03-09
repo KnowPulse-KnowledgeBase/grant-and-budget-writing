@@ -13,11 +13,11 @@ short-purpose: "This lesson contains a repository of articles related to grant a
 who: "Graduate students, researchers and Post-Doctoral Fellows will benefit from learning more about the grant writing process."
 
 # A comma-separated list of maintainers for this lesson.
-maintainers: "Lacey-Anne Sanderson, Ruobin Liu"
+maintainers: "Lacey-Anne Sanderson, Ruobin Liu, Laura Jardine"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "Writing grants can be a frustrating process and success rates are generally low. However, repeatedly applying for funding is a reality when working within academia, and every success adds to one's future ability to bring in funding. This repository serves as a place where students and researchers can find advice and tools for writing better grant proposals from academics around the world, and in a variety of disciplines."
+why: "Writing grants can be a frustrating process and success rates are generally low (commonly 25-35%). However, repeatedly applying for funding is a reality when working within academia, and every success adds to one's future ability to bring in more funding. This repository serves as a place where students and researchers can find advice and tools for writing better grant proposals from academics around the world, and in a variety of disciplines."
 
 # A short list of items researchers will learn in this lesson.
 learn:
@@ -25,7 +25,7 @@ learn:
 - "Where to start when writing a budget"
 - "Usask resources for grant writing"
 
-data-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent lacinia orci risus. Quisque condimentum nunc posuere, rutrum nunc eu, cursus enim. Nam sit amet turpis sit amet erat pulvinar consequat eget ac erat. Aliquam erat volutpat. Aenean in bibendum nibh. Proin iaculis dictum augue nec faucibus. Integer et arcu tortor. Donec at tristique eros. Integer consequat aliquet mauris, vitae imperdiet orci iaculis sit amet. Cras sit amet mollis lacus. Sed ac auctor mi, sit amet laoreet tellus. Vivamus vehicula congue velit. Cras vulputate est nec velit pretium condimentum. Vivamus eu leo sed est ullamcorper tincidunt at non dolor. Duis vestibulum pellentesque felis, at aliquam risus condimentum at."
+data-description: "Not applicable to this lesson."
 ---
 
 The KnowPulse KnowledgeBase focuses on short question-based lessons to help researchers get their work done.
