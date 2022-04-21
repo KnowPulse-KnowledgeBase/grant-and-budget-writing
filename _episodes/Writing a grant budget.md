@@ -9,8 +9,11 @@ questions:
 objectives:
 - "Learn how to plan and write up a budget"
 keypoints:
-- "Know the funding agency guidelines for spending"
+- "Know the funding agency guidelines for spending _before_ you start"
 - "Find the people in your organisation who can help you"
+- "Make sure you have costs of benefits built into your salary totals"
+- "Build inflation into salary costs over the course of the project"
+- "Shop around and get quotes for high priced consumables and services- you'll need them!"
 ---
 ## Large-scale grants
 
