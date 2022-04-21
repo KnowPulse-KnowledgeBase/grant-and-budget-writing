@@ -8,7 +8,7 @@ objectives:
 keypoints:
 - "Writing grants will help you get better at writing grants"
 - "Get comfortable telling your research story"
-- "There are people around who can help. Be OK asking for help or examples!
+- "There are people around who can help. Find them!"
 ---
 
 ## Here are some resources and articles that I've found helpful in preparing this tutorial:
