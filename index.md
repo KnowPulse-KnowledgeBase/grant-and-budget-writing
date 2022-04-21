@@ -3,27 +3,27 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "How do I write a funding grant?"
+title: "How do I write a funding proposal?"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson contains a repository of articles related to grant and budget writing."
+short-purpose: "This lesson contains a repository of resources related to grant and budget writing."
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
-who: "Graduate students, researchers and Post-Doctoral Fellows will benefit from learning more about the grant writing process."
+who: "Graduate students, researchers and Post-Doctoral Fellows"
 
 # A comma-separated list of maintainers for this lesson.
 maintainers: "Lacey-Anne Sanderson, Ruobin Liu, Laura Jardine"
 
 # A short paragraph describing why we created this lesson.
 # What question is it trying to solve and why is that question important.
-why: "Writing grants can be a frustrating process and success rates are generally low (commonly 25-35%). However, repeatedly applying for funding is a reality when working within academia, and every success adds to one's future ability to bring in more funding. This repository serves as a place where students and researchers can find advice and tools for writing better grant proposals from academics around the world, and in a variety of disciplines."
+why: "Writing grants can be a frustrating process and success rates are generally low (commonly 25-35%). However, repeatedly applying for funding is a reality when working within academia. This repository serves as a place where students and researchers can find advice and tools for writing better grant proposals from academics around the world."
 
 # A short list of items researchers will learn in this lesson.
 learn:
 - "Using the Message Box Workbook to better communicate your work"
-- "Where to start when writing a budget"
-- "Usask resources for grant writing"
+- "Writing a grant budget"
+- "Writing and budgeting resources"
 
 data-description: "Not applicable to this lesson."
 ---
