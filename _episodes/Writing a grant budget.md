@@ -3,17 +3,17 @@ title: "Writing a grant budget"
 teaching: 5
 exercises: 10
 questions:
-- "Where do I start with preparing a budget?"
 - "How do I determine costs to a project?"
+- "Where do I start with preparing a budget?"
 - "Are there examples of budgets I can work from?"
 objectives:
 - "Learn how to plan and write up a budget"
 keypoints:
 - "Know the funding agency guidelines for spending _before_ you start"
 - "Find the people in your organisation who can help you"
-- "Make sure you have costs of benefits built into your salary totals"
+- "Make sure you have costs of benefits built into salary totals"
 - "Build inflation into salary costs over the course of the project"
-- "Shop around and get quotes for high priced consumables and services- you'll need them!"
+- "Shop around and get quotes for high priced consumables and services"
 ---
 ## Large-scale grants
 
@@ -41,6 +41,10 @@ __Read through the funding guidelines _before_ you start__. Understand what you 
 
 Next, take your cost categories and plug them into an excel sheet. Then it’s time to do your homework, or find someone to do it for you (_see comments about ConnectionPoint, and making friends with admin staff_). Lay out your hiring requirements, and find out how much people will cost the project. Then you can move on to consumables. If you don’t know how much you’re going to need in this category, ask someone who’s done similar work. The same goes for equipment and services. This will help you to get a ballpark number to work with, and you can work from there to add or take away from your proposal as needed. Taking the time to plan carefully here will also help you to justify your budget items, which is sometimes required as a separate document in funding applications. 
 
+## Where can I find example budgets?
+
+There are likely plenty of people around you at the UofS who have extensive experience writing budgets, both large and small-scale. The OVPR Grants Calendar maintains a Grants Repository for successfully awarded publications [here](https://vpresearch.usask.ca/events/grants-calendar.php#OpportunitiesbyMonth). If you’re dreaming of applying for an NSERC someday, this repository has great examples of proposals/budgets to study and learn from. Ask your colleagues if they have any examples of past proposals and budgets from your target organisation (i.e. ADF, MITACS, etc.).
+ 
 ## How do I get better at this?
 
 1. Practice! Take the time to seek out and write grants for different agencies. Good feedback on a failed application will teach you far more than any tutorial.
@@ -48,8 +52,3 @@ Next, take your cost categories and plug them into an excel sheet. Then it’s t
 1. Make friends with good admin people. These people work with information you’re looking for _all the time_. Sometimes, it’s all they do! Look to your Project Manager, admin staff in Plant Sciences, OVPR and Library Resources staff, ConnectionPoint; all of these people are paid to help people like you! 
 
 1. Look through old proposal applications, both successful and failed, if you can get your hands on some. Ask your colleagues, or see what you can find online. 
-
-## Where can I find example budgets?
-
-There are likely plenty of people around you at the UofS who have extensive experience writing budgets, both large and small-scale. The OVPR Grants Calendar maintains a Grants Repository for successfully awarded publications [here](https://vpresearch.usask.ca/events/grants-calendar.php#OpportunitiesbyMonth). If you’re dreaming of applying for an NSERC someday, this repository has great examples of proposals/budgets to study and learn from. Ask your colleagues if they have any examples of past proposals and budgets from your target organisation (i.e. ADF, MITACS, etc.).
- 
