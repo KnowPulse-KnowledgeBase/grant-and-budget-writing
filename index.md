@@ -6,7 +6,7 @@ root: .
 title: "How do I write a funding proposal?"
 
 # Single Sentence purpose for this lesson.
-short-purpose: "This lesson contains a repository of resources related to grant and budget writing."
+short-purpose: "This lesson contains resources related to grant and budget writing."
 
 # Single-Sentence describing the researchers
 # who will be helped by this tutorial.
