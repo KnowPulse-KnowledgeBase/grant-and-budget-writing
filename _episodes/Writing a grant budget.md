@@ -17,15 +17,15 @@ keypoints:
 ---
 ## Large-scale grants
 
-Large-scale grants (i.e., NSERC, CIHR, SSHRC, Genome Canada) are only available to permanent faculty at a Canadian institution (or those with at least a 5-year research contract), so we will focus on small-scale grants for this tutorial. The Office of the Vice President of Research (OVPR) at the UofS has an entire team that helps researchers secure grant money for large-scale projects, they could be a useful resource for help with smaller grants too.
+Large-scale grants (i.e., NSERC, CIHR, SSHRC, Genome Canada) are only available to permanent faculty at a Canadian institution (or those with at least a 5-year research contract), so we will focus on small-scale grants for this tutorial. The [Office of the Vice President of Research (OVPR)](https://vpresearch.usask.ca/) at the UofS has an entire team that helps researchers secure grant money for large-scale projects.
 
 ## Small-scale grants
 
-Grants commonly applied for by Post-docs, Grad students and other researchers in agriculture are the Agriculture Development Fund (ADF) through the Government of Saskatchewan, MITACS grants, and other industry-specific grants. We will focus on small-scale grants here.
+Grants commonly applied for by Post-docs, Grad students and other researchers in agriculture are the Agriculture Development Fund (ADF) through the Government of Saskatchewan, MITACS grants, and other industry-specific grants. OVPR may be able to help with some resources for small-scale grants, but are more interested in helping secure large-scale grants. We will focus on small-scale grants in this lesson. 
 
 ## Determining costs to a project
 
-For most grants, there are 4 main expense categories that you will have to budget for: **salary**, **consumables** (sometimes called materials and supplies), **equipment** and **services from others**. Depending on the agency, there may be an **other** category, this is where you can park publication costs, travel, conference fees, etc.
+For most grants, there are 4 main expense categories that you will have to budget for: **salary**, **consumables** (also called materials and supplies), **equipment** and **services from others**. Depending on the agency, there may be an **other** category, this is where you can park publication costs, travel, conference fees, etc.
 
 **Salary**: Think about the work you want to get done in your proposal. Will you need a Technician? A Research Assistant? A grad student? How long will it take them to do the work? For grad students, you should be looking at funding an MSc for 2.5 and PhD for 4 years, rates are dependent on the Principal Investigator (P.I.). Find a person in your department who deals with hiring. In our case, the Project Manager for the P.I. or the admin staff in Plant Sciences are really helpful. Salary cost to the project _includes_ benefits to the employee, so be careful to include the total cost of hiring (salary+benefits). Also make sure to include inflation over the course of the project. At the UofS we write in a 1.5% increase per year. And finally- make sure to write your own salary+benefits in the project! 
 
@@ -33,13 +33,13 @@ For most grants, there are 4 main expense categories that you will have to budge
 
 **Equipment**: This is the place where you can budget in any equipment expenses that you may need to carry out your study. Funding agencies are very particular about this category, and many will not fund equipment purchases. So make sure you know whether it can be funded through the grant you’re writing, or whether you need to bring it in to the project another way (i.e. in-kind contribution from another project).
 
-**Services from Others**: This category is meant to budget any services you’ll be requesting from outside sources. It is really important to check various labs or companies that offer the service you’re requesting, as you’ll be asked to justify why you used one service provider over another. At the UofS, if a service will cost more than $10,000, at least 3 price-quotes will need to be provided to ConnectionPoint (they will help collect these, if you ask), or a single-source justification will need to be provided. 
+**Services from Others**: This category is meant to budget any services you’ll be requesting from outside sources. It is really important to check various labs or companies that offer the service you’re requesting, as you’ll be asked to justify why you used one service provider over another. At the UofS, if a service will cost more than $10,000, at least 3 price-quotes will need to be provided to [ConnectionPoint](https://connectionpoint.usask.ca/) (they will help collect these, if you ask), or a single-source justification will need to be provided. 
 
 ## Where do I start with writing a budget?
 
 __Read through the funding guidelines _before_ you start__. Understand what you can and can’t build into your budget. Knowing this in advance will save you time, and headache, and may be a deciding factor in whether your application is successful or not.
 
-Next, take your cost categories and plug them into an excel sheet. Then it’s time to do your homework, or find someone to do it for you (_see comments about ConnectionPoint, and making friends with admin staff_). Lay out your hiring requirements, and find out how much people will cost the project. Then you can move on to consumables. If you don’t know how much you’re going to need in this category, ask someone who’s done similar work. The same goes for equipment and services. This will help you to get a ballpark number to work with, and you can work from there to add or take away from your proposal as needed. Taking the time to plan carefully here will also help you to justify your budget items, which is sometimes required as a separate document in funding applications. 
+Next, take your cost categories and plug them into an excel sheet. Then it’s time to do your homework, or find someone to do it for you (_see comments about [ConnectionPoint](https://connectionpoint.usask.ca/), and making friends with admin staff_). Lay out your hiring requirements, and find out how much people will cost the project. Then you can move on to consumables. If you don’t know how much you’re going to need in this category, ask someone who’s done similar work. The same goes for equipment and services. This will help you to get a ballpark number to work with, and you can work from there to add or take away from your proposal as needed. Taking the time to plan carefully here will also help you to justify your budget items, which is sometimes required as a separate document in funding applications. 
 
 ## Where can I find example budgets?
 
