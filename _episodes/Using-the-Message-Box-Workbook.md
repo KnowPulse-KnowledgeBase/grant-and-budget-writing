@@ -8,9 +8,9 @@ questions:
 objectives:
 - "Use the Message Box tool to help you describe your work in clear and concise points that are most relevant to your chosen audience."
 keypoints:
-- "The human brain can take in __3-5 pieces of information in at a time__."
-- "__Identify__ your audience, and determine what matters to them."
-- "Learn to articulate the __Issue__, the __Problem__, the __So What?__, __Solutions__, and __Benefits__ in your work."
+- "The human brain can take in __3-5 pieces of information in at a time__"
+- "__Identify__ your audience, and determine what matters to them"
+- "Learn to articulate the __Issue__, the __Problem__, the __So What?__, __Solutions__, and __Benefits__ in your work"
 
 ---
 Instead of re-inventing the wheel, I've found an organization that's dedicated to helping scientists effectively communicate their work, and I'm pointing you there. It takes some time and dedication to work through their materials, but you will definitely benefit from the investment.
