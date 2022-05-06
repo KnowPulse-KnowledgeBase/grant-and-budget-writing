@@ -3,7 +3,7 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "How do I write a funding proposal?"
+title: "How can I get my own funding?"
 
 # Single Sentence purpose for this lesson.
 short-purpose: "This lesson contains resources related to grant and budget writing."
