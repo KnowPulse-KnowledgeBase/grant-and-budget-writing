@@ -1,6 +1,7 @@
 ---
 title: "Writing and Budgeting Resources"
 teaching: 5
+exercise: 5
 questions:
 - "Where can I find more help with this?"
 objectives:
