@@ -25,7 +25,7 @@ Grants commonly applied for by Post-docs, Grad students and other researchers in
 
 ## Determining costs to a project
 
-For most grants, there are 4 main expense categories that you will have to budget for: **salary**, **consumables** (also called materials and supplies), **equipment** and **services from others**. Depending on the agency, there may be an **other** category, this is where you can park publication costs, travel, conference fees, etc.
+For most grants, there are 4 main expense categories that you will have to budget for: **salary**, **consumables** (also called materials and supplies), **equipment** and **services from others**. Depending on the agency, there may be an **other** category as well.
 
 **Salary**: Think about the work you want to get done in your proposal. Will you need a Technician? A Research Assistant? A grad student? How long will it take them to do the work? For grad students, you should be looking at funding an MSc for 2.5 and PhD for 4 years, rates are dependent on the Principal Investigator (P.I.). Find a person in your department who deals with hiring. In our case, the Project Manager for the P.I. or the admin staff in Plant Sciences are really helpful. Salary cost to the project _includes_ benefits to the employee, so be careful to include the total cost of hiring (salary+benefits). Make sure to include inflation over the course of the project. At the UofS we write in a 1.5% increase per year. And finally- make sure to write your own salary+benefits in the project! 
 
